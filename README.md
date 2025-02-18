@@ -5,8 +5,15 @@
 **Student number:** 2023-02476<br/>
 **Degree Program:** BS Computer Science<br/>
 
-## How to Create a Github Page
+## Github Live Page Link
+https://cmsc100-2s2425-u4l.github.io/exercise-02-jagibudu/
 
+## How to Create a Github Page
+>SETTINGS
+>PAGES
+>BRANCH
+  -MAIN
+  -SAVE
 
 ## Takeaways
 I learned how to make a simple webpage by using html and external css
